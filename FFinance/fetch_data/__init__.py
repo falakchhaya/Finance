@@ -1,5 +1,6 @@
 """
-We are with test1.py file, inside fetch_data.
+Docstring for fetch_data module.
 """
 
-import test1.py
+# from fetch_data import test1
+# from fetch_data import fetch_data
